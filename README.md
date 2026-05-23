@@ -44,3 +44,9 @@ tokenalyzer scan --detail                   # Per-session breakdown
 ## Tech stack
 
 Python, Typer, Rich
+
+## More tools
+
+- [pingbot](https://github.com/shyh26/pingbot) — dead-simple cron job monitor with Telegram alerts
+- [envyzer](https://github.com/shyh26/envyzer) — .env file validator and diff tool
+- [shipnotes](https://github.com/shyh26/shipnotes) — changelog generator from git history
